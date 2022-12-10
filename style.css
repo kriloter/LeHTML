@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+    font-size: 50px;
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    text-shadow: 10px 10px 10px grey;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: cyan;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    background: green;
+    color: azure;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px 30px 50px 70px;
+    box-shadow: 10px 10px 10px gray;
+}
