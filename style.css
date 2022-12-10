@@ -12,8 +12,15 @@ body {
     background-color: cyan;
 }
 
-p {
+.p1 {
     text-align: justify;
+    color: blue;
+    border: 1px solid gray ;
+}
+
+.p2 {
+    text-align: justify;
+    color: red;
 }
 
 a {
